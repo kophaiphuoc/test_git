@@ -1,3 +1,7 @@
 bản gốc 
 
+<<<<<<< HEAD
 commit complete
+=======
+commit của main
+>>>>>>> 72d3eb5949f303eaf33253bf74db0aa1a34f4f9c
